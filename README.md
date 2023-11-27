@@ -1,10 +1,10 @@
 # metakidia_inventory
 Metakidia Inventory
-# ProfileService
+## ProfileService
 Save player's data (Inventory data, Cash, Gems, Avatar, Playtime ... )
 It is not used by Template. But Save the data in InventoryService through Bindable events.
 
-# InventoryService
+## InventoryService
 ### Remote Function
 - GetInventory(player, tab: string, tabs: table, option: string?) : Return player inventory data.
 	- Return Type : table
