@@ -1,4 +1,4 @@
-# metakidia_inventory
+# Metakidia Inventory
 Metakidia Inventory
 ## ProfileService
 Save player's data (Inventory data, Cash, Gems, Avatar, Playtime ... )
