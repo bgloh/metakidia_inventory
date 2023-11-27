@@ -122,5 +122,5 @@ Prices.Apple = {
 There are two frequently used events for Inventory Service: SendItem and SendItemServer.
 
 ### How to get Cash and Gems
-![image](./Pasted%20image%2020231124175613.png)
+![image](https://github.com/bgloh/metakidia_inventory/blob/main/Images/how_to_get_cash_and_gems.png)
 Interact cube to 'E'
